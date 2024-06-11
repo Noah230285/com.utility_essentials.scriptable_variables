@@ -1,0 +1,14 @@
+{
+  "name": "com.utility_essentials.scriptable_variables",
+  "displayName": "Scriptable Variables",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "keywords": [
+    "Scriptable",
+    "SO",
+    "Variables"
+  ],
+  "description": "A Collection of useful scripts I created",
+  "dependencies": {
+  }
+}
